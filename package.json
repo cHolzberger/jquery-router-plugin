@@ -1,0 +1,27 @@
+{
+  "name": "jquery-router-plugin",
+  "version": "1.0.0",
+  "description": "This plugin handles routes for both hash and push state.",
+  "main": "jquery.router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cHolzberger/jquery-router-plugin.git"
+  },
+  "keywords": [
+    "jQuery",
+    "router",
+    "url"
+  ],
+  "author": "Christian Holzberger <ch@mosaiksoftware.de> (http://blog.mosaiksoftware.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cHolzberger/jquery-router-plugin/issues"
+  },
+  "homepage": "https://github.com/cHolzberger/jquery-router-plugin#readme",
+	"browserDependencies": {
+		"jquery": "^2.1.4"
+	}
+}
